@@ -21,7 +21,7 @@ const formatter = new Intl.NumberFormat('en-US', {
   style: 'currency',
   currency: 'UDS',
   minimumFractionDigits: 2,
-  maximumFractionDigits: 2,
+  maximumFractionDigits: 2
 })
 
 const App = () => {
